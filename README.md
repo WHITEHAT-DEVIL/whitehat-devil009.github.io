@@ -25,10 +25,11 @@ First my website
     + osi
     + protocol
     
-    **IANT INDIA:**
-      ![IANT](iant.png)
+   **IANT INDIA:**
+     ![IANT](iant.png)
       
-      [iant web site](https://www.iantindia.com/)
+     
+  [iant web site](https://www.iantindia.com/)
       
       
 
